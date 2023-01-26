@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="8dp"
+    app:cardCornerRadius="10dp"
+    android:padding="10dp"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nama :"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:textSize="20sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="dummy"
+                android:layout_marginStart="20dp"
+                android:textStyle="bold"
+                android:id="@+id/name_text"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Email :"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="dummy@gmail.com"
+                android:layout_marginStart="20dp"
+                android:textStyle="bold"
+                android:id="@+id/email_text"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Phone :"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textSize="20sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="dummy"
+                android:layout_marginStart="20dp"
+                android:textStyle="bold"
+                android:id="@+id/phone_text"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tier :"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textSize="20sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="dummy"
+                android:layout_marginStart="20dp"
+                android:textStyle="bold"
+                android:id="@+id/tier_text"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tipe Order :"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textSize="20sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="dummy"
+                android:layout_marginStart="20dp"
+                android:textStyle="bold"
+                android:id="@+id/order_text"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tanggal Order :"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textSize="20sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="dummy"
+                android:layout_marginStart="20dp"
+                android:textStyle="bold"
+                android:id="@+id/tanggal_text"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Status :"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textSize="20sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="dummy"
+                android:layout_marginStart="20dp"
+                android:textStyle="bold"
+                android:id="@+id/status_text"
+                android:textSize="17sp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

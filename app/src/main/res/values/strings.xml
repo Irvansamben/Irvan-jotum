@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JokiApp</string>
+    <string name="button_not_register">Tidak memiliki akun? <font color='red'>Daftar Sekarang</font></string>
+    <string name="button_forget_password"><font color='red'>Lupa Akun?</font></string>
+    <string name="after_register">Sudah memiliki akun? <font color='red'>Login Sekarang</font></string>
+    <string name="batal">Batal</string>
+    <string name="keluar">Keluar</string>
+    <string name="webClientId">1069003929606-u2bndkotdeltkq1kfjdgcagg19bhr8ai.apps.googleusercontent.com</string>
+
+    <!-- Headings -->
+    <string name="headslide1">Bingung mencari lokasi barang?</string>
+    <string name="headslide2">Proses pengembalian barang yang ribet?</string>
+    <string name="headslide3">Susah menghubungi para staff ruangan?</string>
+    <string name="headslide4">Selamat Datang di CampIn</string>
+    <string name="keterangan">Kami dari team PACE mempersembahkan sebuah aplikasi bernama jotum, dimana
+        aplikasi tersebut menjadi plikasi yang memungkinkan para pemain mobile legend yang ingin meningkatkan rank secara instant dapat mengunjungi aplikasi tersebut. Irvan samben dengan Nim 42520008 sebagai penanggung jawab masalah front end dan andi m panguriseng sebagai penanggungjawab bagian backend. dengan aplikasi ini kita player dapat lebih mudah meningkatkan
+         n/ rank pada mobile legend secara instant dan cepat dengan mempercayakan akunnya kepada pemain
+         n/ yang pro dan mudah untuk menaikkan rank.Mobile Legends adalah permainan MOBA yang dirancang untuk ponsel.
+         n/ Kedua tim masing-masing berisi lima orang berjuang untuk mencapai dan menghancurkan markas musuh sambil
+         n/ mempertahankan markas mereka sendiri untuk mengendalikan tiga jalur, yang dikenal sebagai jalur "atas", "tengah"
+         n/ dan "bawah", yang menghubung ke setiap markas.</string>
+    <string name="tvInfo">Jotum merupakan aplkasi yang membantu para player mobile legend yang ingin dengan instan menaikkan tingkat rank Mobile legend nya. resolusi dari aplikasi menjadikan player yang ingin mencari cuandapat mendaftar dan menjoki di aplikasi Jotum.</string>
+    <string name="info">Jotum merupakan aplkasi yang membantu para player mobile legend yang ingin dengan instan menaikkan tingkat rank Mobile legend nya. resolusi dari aplikasi menjadikan player yang ingin mencari cuandapat mendaftar dan menjoki di aplikasi Jotum.</string>
+</resources>
